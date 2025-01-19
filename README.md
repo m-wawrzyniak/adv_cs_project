@@ -32,7 +32,7 @@ Each text corpus was analyzed individually in `.ipynb` files. Start with `a_Plat
 ### **Reconstructing Virtual Environment and Jupyter Kernel**
 1. Create a directory where project and venv will be stored
 2. Using CMD, go to the created directory: cd <path_to_directory>
-3. CMD > git clone https://github.com/m-wawrzyniak/adv_cs_text_analysis
+3. CMD > git clone https://github.com/m-wawrzyniak/adv_cs_project
 4. cd adv_cs_text_analysis
 5. python -m venv txt_an_venv
 6. venv\Scripts\activate
