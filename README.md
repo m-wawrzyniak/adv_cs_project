@@ -31,15 +31,14 @@ Each text corpus was analyzed individually in `.ipynb` files. Start with `a_Plat
 
 ### **Reconstructing Virtual Environment and Jupyter Kernel**
 1. Create a directory where project and venv will be stored
-2. Using CMD, go to the created directory: cd <path_to_directory>
-3. CMD > git clone https://github.com/m-wawrzyniak/adv_cs_project
-4. cd adv_cs_text_analysis
-5. python -m venv txt_an_venv
-6. venv\Scripts\activate
-7. pip install -r requirements.txt
-8. Leave the virtual environment
-9. python -m ipykernel install --user --name=txt_an_venv --display-name "Txt analysis kernel"
-10. In the directory, run jupyter notebook
+2. Using CMD, go to the created directory: `cd <path_to_directory>`
+3. Clone GIT repository:  `git clone https://github.com/m-wawrzyniak/adv_cs_project`
+4. Go into the cloned repository: `cd adv_cs_project`
+5. Create virtual environment: `python -m venv project_venv`
+6. Activate the environment: `project_venv\Scripts\activate`
+7. Within the environement, download required dependencies: `pip install -r requirements.txt`
+8. Within the environment, create a Jupter kernel for notebooks: `python -m ipykernel install --user --name=project_venv --display-name "main kernel"`
+9. You can close the environment. Run Jupyter Notebook from the project directory. When opening specific notebook, remember to change the kernel to "main kernel', in the top right corner!
 
 **Enjoy the project!**
 
