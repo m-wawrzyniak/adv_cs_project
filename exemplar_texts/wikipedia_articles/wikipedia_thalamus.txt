@@ -1,0 +1,709 @@
+Jump to content
+
+Main menu
+
+Main menu move to sidebar hide
+
+Navigation
+
+Main page Contents Current events Random article About Wikipedia Contact us
+
+Contribute
+
+Help Learn to edit Community portal Recent changes Upload file
+
+Search
+
+Search
+
+Appearance
+
+Donate
+
+Create account
+
+Log in
+
+Personal tools
+
+Donate Create account Log in
+
+Pages for logged out editors learn more
+
+Contributions Talk
+
+Contents move to sidebar hide
+
+(Top)
+
+1 Anatomy
+
+Toggle Anatomy subsection
+
+1.1 Thalamic nuclei
+
+1.2 Blood supply
+
+1.3 Connections
+
+2 Function
+
+3 Development
+
+Toggle Development subsection
+
+3.1 Early brain development
+
+3.2 Formation of progenitor domains
+
+3.3 The formation of the mid-diencephalic organiser (MDO)
+
+3.4 Maturation and parcellation of the thalamus
+
+4 Clinical significance
+
+5 Additional images
+
+6 See also
+
+7 References
+
+8 External links
+
+Toggle the table of contents
+
+Thalamus
+
+58 languages
+
+العربية Azərbaycanca تۆرکجه বাংলা Беларуская Беларуская (тарашкевіца) Български Bosanski Català Čeština Cymraeg Dansk Deutsch Eesti Ελληνικά Español Esperanto Euskara فارسی Français Galego 한국어 हिन्दी Hrvatski Bahasa Indonesia Italiano עברית Қазақша Latina Latviešu Lietuvių Magyar Македонски മലയാളം Bahasa Melayu Nederlands 日本語 Norsk bokmål Oʻzbekcha / ўзбекча Polski Português Română Русский Саха тыла Simple English Slovenščina کوردی Српски / srpski Srpskohrvatski / српскохрватски Suomi Svenska ไทย Türkçe Українська اردو Tiếng Việt 粵語 中文
+
+Edit links
+
+Article Talk
+
+English
+
+Read Edit View history
+
+Tools
+
+Tools move to sidebar hide
+
+Actions
+
+Read Edit View history
+
+General
+
+What links here Related changes Upload file Special pages Permanent link Page information Cite this page Get shortened URL Download QR code
+
+Print/export
+
+Download as PDF Printable version
+
+In other projects
+
+Wikimedia Commons Wikidata item
+
+Appearance move to sidebar hide
+
+From Wikipedia, the free encyclopedia
+
+Structure within the brain This article is about the portion of the brain. For the British video game developer, see Thalamus Ltd. For the botanical structure, see Receptacle (botany).
+
+Thalamus
+
+Thalamus marked (MRI cross-section)
+
+Visual depiction of basic thalamus
+
+Details
+
+Part of Diencephalon
+
+Parts See List of thalamic nuclei
+
+Artery
+
+Posterior cerebral artery and branches
+
+Identifiers
+
+Latin thalamus dorsalis
+
+MeSH D013788
+
+NeuroNames 300
+
+NeuroLex ID birnlex_954
+
+TA98
+
+A14.1.08.101 A14.1.08.601
+
+TA2 5678
+
+TE E5.14.3.4.2.1.8
+
+FMA 62007
+
+Anatomical terms of neuroanatomy[edit on Wikidata]
+
+The thalamus (pl.: thalami; from Greek θάλαμος, "chamber") is a large mass of gray matter on the lateral walls of the third ventricle forming the dorsal part of the diencephalon (a division of the forebrain). Nerve fibers project out of the thalamus to the cerebral cortex in all directions, known as the thalamocortical radiations, allowing hub-like exchanges of information. It has several functions, such as the relaying of sensory and motor signals to the cerebral cortex[1][2] and the regulation of consciousness, sleep, and alertness.[3][4]
+
+Anatomically, it is a paramedian symmetrical structure of two halves (left and right), within the vertebrate brain, situated between the cerebral cortex and the midbrain. It forms during embryonic development as the main product of the diencephalon, as first recognized by the Swiss embryologist and anatomist Wilhelm His Sr. in 1893.[5]
+
+Anatomy [edit]
+
+The thalamus is a paired structure of gray matter about four centimetres long, located in the forebrain which is superior to the midbrain, near the center of the brain with nerve fibers projecting out to the cerebral cortex in all directions. In fact, almost all thalamic neurons (with the notable exception of the thalamic reticular nucleus[6]) project to the cerebral cortex, and every region of the cortex so far studied has been found to innervate the thalamus.[7]
+
+Each of the thalami may be subdivided into at least 30 nuclei, giving a total of at least 60 for the whole thalamus.[4][8]
+
+Estimates of the volume of the whole thalamus vary. A post-mortem study of 10 people with average age 71 years found average volume 13.68 cm
+
+3
+
+{\displaystyle {}^{3}}
+
+.[9] In a study of 12 healthy males with average age 17 years, MRI scans showed mean whole thalamus volume 8.68cm
+
+3
+
+{\displaystyle {}^{3}}
+
+.[10]
+
+The medial surface of the thalamus constitutes the upper part of the lateral wall of the third ventricle, and is connected to the corresponding surface of the opposite thalamus by a flattened gray band, the interthalamic adhesion.
+
+The lateral part of the thalamus is the neothalamus, the phylogenetically newest part of the thalamus, which includes the lateral nuclei, the pulvinar nuclei and the medial and lateral geniculate nuclei.[11][12]
+
+The surface of the thalamus is covered by two layers of white matter, the stratum zonale covers the dorsal surface, and the external medullary lamina covers the lateral surface. (This stratum zonale should not be confused with the stratum zonale of the superior colliculus.) Within the thalamus the internal medullary lamina divides the nuclei into anterior, medial, and lateral groups.[13][14]
+
+Derivatives of the diencephalon include the dorsally-located epithalamus (essentially the habenula and annexes) and the perithalamus (prethalamus) containing the zona incerta and the thalamic reticular nucleus. Due to their different ontogenetic origins, the epithalamus and the perithalamus are formally distinguished from the thalamus proper. The metathalamus is made up of the lateral geniculate and medial geniculate nuclei.[15][16]
+
+The thalamus comprises a system of lamellae (made up of myelinated fibers) that separate different thalamic subparts. Other areas are defined by distinct clusters of neurons, such as the periventricular nucleus, the intralaminar elements, the "nucleus limitans", and others.[17] These latter structures, different in structure from the major part of the thalamus, have been grouped together into the allothalamus as opposed to the isothalamus.[18] This distinction simplifies the global description of the thalamus.
+
+Thalamic nuclei. Metathalamus labelled MTh.(Left thalamus viewed from left.) Nuclei of right thalamus(viewed from above right)
+
+Thalamic nuclei [edit]
+
+See also: List of thalamic nuclei
+
+Medial nuclei of the left thalamus. Key: CeM Central Medial. CL Central Lateral. CM CentroMedian. MD Medial Dorsal. MV MedioVentral=Reuniens. Pf Parafascicular. (Lateral view shows sagittal section through left thalamus) Lateral nuclei of the left thalamus. Key: VA Ventral Anterior. VL Ventral Lateral. VM Ventral Medial. VPI Ventral PosteroInferior. VPL Ventral PosteroLateral. VPM Ventral PosteroMedial. (Medial view shows sagittal section through left thalamus.) The principal subdivision of the thalamus into nucleus groups is the trisection of each thalamus (left and right) by a Y-shaped internal medullary lamina. This trisection divides each thalamus into anterior, medial and lateral groups of nuclei.[8] The medial group is subdivided into the medial dorsal nucleus and midline group. The lateral group is subdivided into ventral, pulvinar, lateral dorsal, lateral posterior and metathalamus. The ventral group is further subdivided into ventral anterior, ventral lateral and ventral posterior.
+
+The interior medullary lamina is subdivided into intralaminar nuclei. Additional structures are the reticular nucleus (which envelops the lateral thalamus), the stratum zonale,[19] and the interthalamic adhesion.[20]
+
+Combining these division principles yields the following hierarchy, which is subject to many further subdivisions.[21]
+
+anterior group medial group
+
+medial dorsal nucleus midline group
+
+lateral group
+
+ventral group
+
+ventral anterior group ventral lateral group ventral posterior group
+
+pulvinar group lateral dorsal nucleus lateral posterior nucleus metathalamus
+
+lateral geniculate nucleus medial geniculate nucleus
+
+intralaminar group reticular nucleus stratum zonale interthalamic adhesion
+
+The term "lateral nuclear group" is used with two meanings. It can mean either the complete set of nuclei in the lateral "third" of the trisection by the lamina, or the subset which excludes the ventral group and the geniculate nuclei.[22][23]
+
+Blood supply [edit]
+
+The thalamus derives its blood supply from a number of arteries: the polar artery (posterior communicating artery), paramedian thalamic-subthalamic arteries, inferolateral (thalamogeniculate) arteries, and posterior (medial and lateral) choroidal arteries.[24][25] These are all branches of the posterior cerebral artery.[8][26]
+
+Some people have the artery of Percheron, which is a rare anatomic variation in which a single arterial trunk arises from the posterior cerebral artery to supply both parts of the thalamus.
+
+Connections [edit]
+
+The thalamus is connected to the spinal cord via the spinothalamic tract The thalamus has many connections to the hippocampus via the mammillothalamic tract. This tract comprises the mammillary bodies and fornix.[27]
+
+The thalamus is connected to the cerebral cortex via the thalamocortical radiations.[28]
+
+The spinothalamic tract is a sensory pathway originating in the spinal cord. It transmits information to the thalamus about pain, temperature, itch and crude touch. There are two main parts: the lateral spinothalamic tract, which transmits pain and temperature, and the anterior (or ventral) spinothalamic tract, which transmits crude touch and pressure.
+
+Function [edit]
+
+The thalamus has multiple functions, and is generally believed to act as a relay station, or hub, relaying information between different subcortical areas and the cerebral cortex.[29] In particular, every sensory system (with the exception of the olfactory system) includes a thalamic nucleus that receives sensory signals and sends them to the associated primary cortical area.[30][31]
+
+For the visual system, for example, inputs from the retina are sent to the lateral geniculate nucleus of the thalamus, which in turn projects to the visual cortex in the occipital lobe.[32] Similarly the medial geniculate nucleus acts as a key auditory relay between the inferior colliculus of the midbrain and the primary auditory cortex.[citation needed] The ventral posterior nucleus is a key somatosensory relay, which sends touch and proprioceptive information to the primary somatosensory cortex.[citation needed] In rodents, proprioceptive information of head and whisker movements is integrated already at the thalamic level.[33]
+
+The thalamus is believed to both process sensory information as well as relay it—each of the primary sensory relay areas receives strong feedback connections from the cerebral cortex.[34]
+
+The thalamus also plays an important role in regulating states of sleep, and wakefulness.[35] Thalamic nuclei have strong reciprocal connections with the cerebral cortex, forming thalamo-cortico-thalamic circuits that are believed to be involved with consciousness.[36][37] The thalamus plays a major role in regulating arousal, the level of awareness, and activity. Damage to the thalamus can lead to permanent coma.[38]
+
+The role of the thalamus in the more anterior pallidal and nigral territories in the basal ganglia system disturbances is recognized but still poorly understood. The contribution of the thalamus to vestibular or to tectal functions is almost ignored. The thalamus has been thought of as a "relay" that simply forwards signals to the cerebral cortex. Newer research suggests that thalamic function is more selective.[39] Many different functions are linked to various regions of the thalamus. This is the case for many of the sensory systems (except for the olfactory system), such as the auditory, somatic, visceral, gustatory and visual systems where localized lesions provoke specific sensory deficits. A major role of the thalamus is support of motor and language systems, and much of the circuitry implicated for these systems is shared.
+
+The thalamus is functionally connected to the hippocampus[40] as part of the extended hippocampal system at the thalamic anterior nuclei.[41] With respect to spatial memory and spatial sensory datum they are crucial for human episodic event memory.[42][43] The thalamic region's connection to the medial temporal lobe provides differentiation of the functioning of recollective and familiarity memory.[27]
+
+The neuronal information processes necessary for motor control were proposed as a network involving the thalamus as a subcortical motor center.[44] Through investigations of the anatomy of the brains of primates[45] the nature of the interconnected tissues of the cerebellum to the multiple motor cortices suggested that the thalamus fulfills a key function in providing the specific channels from the basal ganglia and cerebellum to the cortical motor areas.[46][47] In an investigation of the saccade and antisaccade[48] motor response in three monkeys, the thalamic regions were found to be involved in the generation of antisaccade eye-movement (that is, the ability to inhibit the reflexive jerking movement of the eyes in the direction of a presented stimulus).[49]
+
+Recent research suggests that the mediodorsal thalamus (MD) may play a broader role in cognition. Specifically, the mediodorsal thalamus may "amplify the connectivity (signaling strength) of just the circuits in the cortex appropriate for the current context and thereby contribute to the flexibility (of the mammalian brain) to make complex decisions by wiring the many associations on which decisions depend into weakly connected cortical circuits."[50] Researchers found that "enhancing MD activity magnified the ability of mice to "think,"[50] driving down by more than 25 percent their error rate in deciding which conflicting sensory stimuli to follow to find the reward."[51]
+
+Development [edit]
+
+The thalamic complex is composed of the perithalamus (or prethalamus, previously also known as ventral thalamus), the mid-diencephalic organiser (which forms later the zona limitans intrathalamica (ZLI) ) and the thalamus (dorsal thalamus).[52][53] The development of the thalamus can be subdivided into three steps.[54] The thalamus is the largest structure deriving from the embryonic diencephalon, the posterior part of the forebrain situated between the midbrain and the cerebrum.
+
+Early brain development [edit]
+
+After neurulation, the early developmental stage (primordium) of the prethalamus and the thalamus is induced within the neural tube. Data from different vertebrate model organisms support a model in which the interaction between two transcription factors, Fez and Otx, is of decisive importance. Fez is expressed in the prethalamus, and functional experiments show that Fez is required for prethalamus formation.[55][56] Posteriorly, OTX1 and OTX2 abut the expression domain of Fez and are required for proper development of the thalamus.[57][58]
+
+Formation of progenitor domains [edit]
+
+Early in thalamic development two progenitor domains form, a caudal domain, and a rostral domain. The caudal domain gives rise to all of the glutamatergic neurons in the adult thalamus while the rostral domain gives rise to all of the GABAergic neurons in the adult thalamus.[59]
+
+The formation of the mid-diencephalic organiser (MDO) [edit]
+
+At the interface between the expression domains of Fez and Otx, the mid-diencephalic organizer (MDO, also called the ZLI organiser) is induced within the thalamic anlage. The MDO is the central signalling organizer in the thalamus. A lack of the organizer leads to the absence of the thalamus. The MDO matures from ventral to dorsal during development. Members of the sonic hedgehog (SHH) family and of the Wnt family are the main principal signals emitted by the MDO.
+
+Besides its importance as signalling center, the organizer matures into the morphological structure of the zona limitans intrathalamica (ZLI).
+
+Maturation and parcellation of the thalamus [edit]
+
+After its induction, the MDO starts to orchestrate the development of the thalamic anlage by release of signalling molecules such as SHH.[60] In mice, the function of signaling at the MDO has not been addressed directly due to a complete absence of the diencephalon in SHH mutants.[61]
+
+Studies in chicks have shown that SHH is both necessary and sufficient for thalamic gene induction.[62] In zebrafish, it was shown that the expression of two SHH genes, SHH-a and SHH-b (formerly described as twhh) mark the MDO territory, and that SHH signaling is sufficient for the molecular differentiation of both the prethalamus and the thalamus but is not required for their maintenance and SHH signaling from the MDO/alar plate is sufficient for the maturation of prethalamic and thalamic territory while ventral Shh signals are dispensable.[63]
+
+The exposure to SHH leads to differentiation of thalamic neurons. SHH signaling from the MDO induces a posterior-to-anterior wave of expression the proneural gene Neurogenin1 in the major (caudal) part of the thalamus, and Ascl1 (formerly Mash1) in the remaining narrow stripe of rostral thalamic cells immediately adjacent to the MDO, and in the prethalamus.[64][65]
+
+This zonation of proneural gene expression leads to the differentiation of glutamatergic relay neurons from the Neurogenin1+ precursors and of GABAergic inhibitory neurons from the Ascl1+ precursors. In fish, selection of these alternative neurotransmitter fates is controlled by the dynamic expression of Her6 the homolog of HES1. Expression of this hairy-like bHLH transcription factor, which represses Neurogenin but is required for Ascl1, is progressively lost from the caudal thalamus but maintained in the prethalamus and in the stripe of rostral thalamic cells. In addition, studies on chick and mice have shown that blocking the Shh pathway leads to absence of the rostral thalamus and substantial decrease of the caudal thalamus. The rostral thalamus will give rise to the reticular nucleus mainly whereby the caudal thalamus will form the relay thalamus and will be further subdivided in the thalamic nuclei.[54]
+
+In humans, a common genetic variation in the promoter region of the serotonin transporter (the SERT-long and -short allele: 5-HTTLPR) has been shown to affect the development of several regions of the thalamus in adults. People who inherit two short alleles (SERT-ss) have more neurons and a larger volume in the pulvinar and possibly the limbic regions of the thalamus. Enlargement of the thalamus provides an anatomical basis for why people who inherit two SERT-ss alleles are more vulnerable to major depression, post-traumatic stress disorder, and suicide.[66]
+
+Clinical significance [edit]
+
+A thalamus damaged by a stroke can lead to thalamic pain syndrome,[67] which involves a one-sided burning or aching sensation often accompanied by mood swings. Bilateral ischemia of the area supplied by the paramedian artery can cause serious problems including akinetic mutism, and be accompanied by oculomotor problems. A related concept is thalamocortical dysrhythmia. The occlusion of the artery of Percheron can lead to a bilateral thalamus infarction.
+
+Korsakoff syndrome stems from damage to the mammillary body, the mammillothalamic fasciculus or the thalamus.[68][69]
+
+Fatal familial insomnia is a hereditary prion disease in which degeneration of the thalamus occurs, causing the patient to gradually lose their ability to sleep and progressing to a state of total insomnia, which invariably leads to death. In contrast, damage to the thalamus can result in coma.
+
+Atrophy of the thalamus is an indicator of the start of multiple sclerosis.[70][71] Thalamic volume loss by atrophy, is also significantly shown in sporadic frontotemporal dementia, noted in the anterior-dorsal thickness.[72]
+
+Microstimulation of the posterior portion of the ventral medial thalamic nucleus can be used to evoke pain, temperature and visceral sensations.[73]
+
+Additional images [edit]
+
+Human brain dissection, showing the thalamus.(View from above.)
+
+Human thalamus along with other subcortical structures, in glass brain.
+
+The thalamus in a 360° rotation
+
+Diagram showing the anterior and lateral spinothalamic tracts within the spinal cord
+
+Dorsal view
+
+Coronal section of lateral and third ventricles
+
+Median sagittal section of brain of human embryo of three months
+
+Human brain frontal (coronal) section. Thalamus label is 10.
+
+Thalamus coronal section
+
+Left thalamus viewed from left dorsal posterior
+
+See also [edit]
+
+5-HT7 receptor
+
+Krista and Tatiana Hogan - conjoined twins with joined thalami
+
+Nonmotor region of the ventral nuclear group of the thalamus
+
+Nucleus ventralis posterior lateralis pars oralis (VPLo), a region of the thalamus Thalamic stimulator Thalamotomy
+
+References [edit]
+
+^ Sherman, S. (2006). "Thalamus". Scholarpedia. 1 (9): 1583. Bibcode:2006SchpJ...1.1583S. doi:10.4249/scholarpedia.1583.
+
+^ Sherman, S. Murray; Guillery, R. W. (2000). Exploring the Thalamus. Academic Press. pp. 1–18. ISBN 978-0-12-305460-9.
+
+^ Gorvett, Zaria. "What you can learn from Einstein's quirky habits". bbc.com.
+
+^ a b Whyte, Christopher J.; Redinbaugh, Michelle J.; Shine, James M.; Saalmann, Yuri B. (2024). "Thalamic contributions to the state and contents of consciousness". Neuron. 112 (10): 1611–1625. doi:10.1016/j.neuron.2024.04.019. PMID 38754373.
+
+^ Jones, Edward G (1985). The Thalamus. Springer. p. 261. doi:10.1007/978-1-4615-1749-8. ISBN 978-1-4613-5704-9. S2CID 41337319.
+
+^ Jones 1985, p. 218.
+
+^ Acsády, László (2024). "Heterogeneity of thalamic input landscapes". In Usrey, W. Martin; Sherman, S. Murray (eds.). The cerebral cortex and thalamus. New York: Oxford University Press. p. 32. ISBN 978-0-19-767615-8.
+
+^ a b c Sheridan, Nicholas; Tadi, Prasanna (2023). Neuroanatomy, Thalamic Nuclei. StatPearls (Report). Treasure Island, Florida. PMID 31751098. Retrieved 2023-09-17.
+
+^ Henderson, J. M.; Carpenter, K.; Cartwright, H.; Halliday, G. M. (2000). "Loss of thalamic intralaminar nuclei in progressive supranuclear palsy and Parkinson's disease: clinical and therapeutic implications". Brain. 123 (7): 1410–1421. doi:10.1093/brain/123.7.1410. PMID 10869053.
+
+^ Hardan, Antonio Y.; Girgis, Ragy R.; Adams, Jason; Gilbert, Andrew R.; Melhem, Nadine M.; Keshevan, Matcheri S.; Minshew, Nancy J. (2008). "Brief Report: Abnormal Association Between the Thalamus and Brain Size in Asperger's Disorder". Journal of Autism and Developmental Disorders. 38: 390–394. doi:10.1007/s10803-007-0385-1.
+
+^ "Medical Definition of NEOTHALAMUS". Merriam-Webster.
+
+^ "neothalamus | Definition of neothalamus in English". Oxford Dictionaries | English. Archived from the original on May 27, 2018.
+
+^ Tortora, Gerard; Anagnostakos, Nicholas (1987). Principles of anatomy and physiology (5th. Harper international ed.). New York: Harper & Row. p. 314. ISBN 978-0060466695.
+
+^ Georgescu IA, Popa D, Zagrean L (September 2020). "The Anatomical and Functional Heterogeneity of the Mediodorsal Thalamus". Brain Sci. 10 (9): 624. doi:10.3390/brainsci10090624. PMC 7563683. PMID 32916866.
+
+^ "NeuroName 351 hierarchy". Retrieved 7 October 2024.
+
+^ Kiwitz, K; Brandstetter, A; Schiffer, C; Bludau, S; Mohlberg, H; Omidyeganeh, M; Massicotte, P; Amunts, K (2022). "Cytoarchitectonic Maps of the Human Metathalamus in 3D Space". Frontiers in Neuroanatomy. 16: 837485. doi:10.3389/fnana.2022.837485. PMC 8957853. PMID 35350721.
+
+^ Jones Edward G. (2007) "The Thalamus" Cambridge Uni. Press[page needed]
+
+^ Percheron, G. (2003). "Thalamus". In Paxinos, G.; May, J. (eds.). The human nervous system (2nd ed.). Amsterdam: Elsevier. pp. 592–675.
+
+^ BrainInfo NeuroName 374
+
+^ BrainInfo NeuroName 301
+
+^ "BrainInfo". braininfo.rprc.washington.edu.
+
+^ "MeSH ID D020647". Retrieved 5 October 2024.
+
+^ "NeuroName 325 hierarchy". Retrieved 5 October 2024.
+
+^ Torrico, Tyler J.; Munakomi, Sunil (2023), "Neuroanatomy, Thalamus", StatPearls, Treasure Island (FL): StatPearls Publishing, PMID 31194341, retrieved 2024-10-13
+
+^ Percheron, G. (1982). "The arterial supply of the thalamus". In Schaltenbrand; Walker, A. E. (eds.). Stereotaxy of the human brain. Stuttgart: Thieme. pp. 218–32.
+
+^ Knipe, H Jones, J et al. Thalamus http://radiopaedia.org/articles/thalamus Archived 2017-09-17 at the Wayback Machine
+
+^ a b Carlesimo, GA; Lombardi, MG; Caltagirone, C (2011). "Vascular thalamic amnesia: A reappraisal". Neuropsychologia. 49 (5): 777–89. doi:10.1016/j.neuropsychologia.2011.01.026. PMID 21255590. S2CID 22002872.
+
+^ "Thalamocortical radiations". University of Washington. 1991.
+
+^ Gazzaniga, Michael S.; Ivry, Richard B.; Mangun, George R. (2014). Cognitive Neuroscience - The Biology of The Mind. New York: W.W. Norton. pp. 45. ISBN 978-0-393-91348-4.
+
+^ Hall, Michael E.; Hall, John E. (2021). Guyton and Hall textbook of medical physiology (14th ed.). Philadelphia, PA: Elsevier. pp. 682, 728. ISBN 978-0-323-59712-8.
+
+^ Brodal, Per (2016). The Central Nervous System (5th ed.). New York: Oxford University Press. p. 314. ISBN 978-0-19-022895-8.
+
+^ Shin, Lisa M; Liberzon, Israel (January 2010). "The Neurocircuitry of Fear, Stress, and Anxiety Disorders". Neuropsychopharmacology. 35 (1): 169–191. doi:10.1038/npp.2009.83. PMC 3055419. PMID 19625997.
+
+^ Oram, Tess Baker; Tenzer, Alon; Saraf-Sinik, Inbar; Yizhar, Ofer; Ahissar, Ehud (2024-07-13). "Co-coding of head and whisker movements by both VPM and POm thalamic neurons". Nature Communications. 15 (1): 5883. Bibcode:2024NatCo..15.5883O. doi:10.1038/s41467-024-50039-z. ISSN 2041-1723. PMC 11246487. PMID 39003286.
+
+^ "The thalamus, middleman of the brain, becomes a sensory conductor". The University of Chicago Medicine. Retrieved 10 September 2020.
+
+^ Steriade, Mircea; Llinás, Rodolfo R. (1988). "The Functional States of the Thalamus and the Associated Neuronal Interplay". Physiological Reviews. 68 (3): 649–742. doi:10.1152/physrev.1988.68.3.649. PMID 2839857.
+
+^ Schnakers, Caroline; Laureys, Steven (2012). Coma and Disorders of Consciousness. London: Springer. p. 143. ISBN 978-1-447-12439-9.
+
+^ Ward, Lawrence M.; Guevara, Ramón (July 4, 2022). "Qualia and phenomenal consciousness arise from the information structure of an electromagnetic field in the brain". Frontiers in Human Neuroscience. 16. doi:10.3389/fnhum.2022.874241. PMC 9289677. PMID 35860400.
+
+^ The Neurology of Consciousness: Cognitive Neuroscience and Neuropathology ISBN 978-0-123-74168-4 p. 10
+
+^ Leonard, Abigail W. (August 17, 2006). "Your Brain Boots Up Like a Computer". LiveScience.
+
+^ Stein, Thor; Moritz, Chad; Quigley, Michelle; Cordes, Dietmar; Haughton, Victor; Meyerand, Elizabeth (2000). "Functional Connectivity in the Thalamus and Hippocampus Studied with Functional MR Imaging". American Journal of Neuroradiology. 21 (8): 1397–401. PMC 7974059. PMID 11003270.
+
+^ Aggleton, John P.; Brown, Malcolm W. (1999). "Episodic memory, amnesia, and the hippocampal–anterior thalamic axis" (PDF). Behavioral and Brain Sciences. 22 (3): 425–44, discussion 444–89. doi:10.1017/S0140525X99002034. PMID 11301518. S2CID 11258997.
+
+^ Aggleton, John P.; O'Mara, Shane M.; Vann, Seralynne D.; Wright, Nick F.; Tsanov, Marian; Erichsen, Jonathan T. (2010). "Hippocampal-anterior thalamic pathways for memory: Uncovering a network of direct and indirect actions". European Journal of Neuroscience. 31 (12): 2292–307. doi:10.1111/j.1460-9568.2010.07251.x. PMC 2936113. PMID 20550571.
+
+^ Burgess, Neil; Maguire, Eleanor A; O'Keefe, John (2002). "The Human Hippocampus and Spatial and Episodic Memory". Neuron. 35 (4): 625–41. doi:10.1016/S0896-6273(02)00830-9. PMID 12194864. S2CID 11989085.
+
+^ Evarts, E V; Thach, W T (1969). "Motor Mechanisms of the CNS: Cerebrocerebellar Interrelations". Annual Review of Physiology. 31: 451–98. doi:10.1146/annurev.ph.31.030169.002315. PMID 4885774.
+
+^ Orioli, PJ; Strick, PL (1989). "Cerebellar connections with the motor cortex and the arcuate premotor area: An analysis employing retrograde transneuronal transport of WGA-HRP". The Journal of Comparative Neurology. 288 (4): 612–26. doi:10.1002/cne.902880408. PMID 2478593. S2CID 27155579.
+
+^ Asanuma C, Thach WT, Jones EG (May 1983). "Cytoarchitectonic delineation of the ventral lateral thalamic region in the monkey". Brain Research. 286 (3): 219–35. doi:10.1016/0165-0173(83)90014-0. PMID 6850357. S2CID 25013002.
+
+^ Kurata, K (2005). "Activity properties and location of neurons in the motor thalamus that project to the cortical motor areas in monkeys". Journal of Neurophysiology. 94 (1): 550–66. doi:10.1152/jn.01034.2004. PMID 15703228.
+
+^ "The Antisaccade - A Review of Basic Research and Clinical Studies". Archived from the original on 2017-09-16. Retrieved 2012-02-10.[full citation needed]
+
+^ Kunimatsu, J; Tanaka, M (2010). "Roles of the primate motor thalamus in the generation of antisaccades" (PDF). Journal of Neuroscience. 30 (14): 5108–17. doi:10.1523/JNEUROSCI.0406-10.2010. PMC 6632795. PMID 20371831.
+
+^ a b "New Role Discovered For Brain Region". Neuroscience News. 2017-05-03. Retrieved 2017-12-03.
+
+^ Schmitt, L. Ian; Wimmer, Ralf D.; Nakajima, Miho; Happ, Michael; Mofakham, Sima; Halassa, Michael M. (May 2017). "Thalamic amplification of cortical connectivity sustains attentional control". Nature. 545 (7653): 219–223. Bibcode:2017Natur.545..219S. doi:10.1038/nature22073. PMC 5570520. PMID 28467827.
+
+^ Kuhlenbeck, Hartwig (1937). "The ontogenetic development of the diencephalic centers in a bird's brain (chick) and comparison with the reptilian and mammalian diencephalon". The Journal of Comparative Neurology. 66: 23–75. doi:10.1002/cne.900660103. S2CID 86730019.
+
+^ Shimamura, K; Hartigan, DJ; Martinez, S; Puelles, L; Rubenstein, JL (1995). "Longitudinal organization of the anterior neural plate and neural tube". Development. 121 (12): 3923–33. doi:10.1242/dev.121.12.3923. PMID 8575293.
+
+^ a b Scholpp, Steffen; Lumsden, Andrew (2010). "Building a bridal chamber: Development of the thalamus". Trends in Neurosciences. 33 (8): 373–80. doi:10.1016/j.tins.2010.05.003. PMC 2954313. PMID 20541814.
+
+^ Hirata, T.; Nakazawa, M; Muraoka, O; Nakayama, R; Suda, Y; Hibi, M (2006). "Zinc-finger genes Fez and Fez-like function in the establishment of diencephalon subdivisions". Development. 133 (20): 3993–4004. doi:10.1242/dev.02585. PMID 16971467.
+
+^ Jeong, J.-Y.; Einhorn, Z.; Mathur, P.; Chen, L.; Lee, S.; Kawakami, K.; Guo, S. (2007). "Patterning the zebrafish diencephalon by the conserved zinc-finger protein Fezl". Development. 134 (1): 127–36. doi:10.1242/dev.02705. PMID 17164418.
+
+^ Acampora, D; Avantaggiato, V; Tuorto, F; Simeone, A (1997). "Genetic control of brain morphogenesis through Otx gene dosage requirement". Development. 124 (18): 3639–50. doi:10.1242/dev.124.18.3639. PMID 9342056.
+
+^ Scholpp, S.; Foucher, I.; Staudt, N.; Peukert, D.; Lumsden, A.; Houart, C. (2007). "Otx1l, Otx2 and Irx1b establish and position the ZLI in the diencephalon". Development. 134 (17): 3167–76. doi:10.1242/dev.001461. PMC 7116068. PMID 17670791.
+
+^ Song, Hobeom; Lee, Bumwhee; Pyun, Dohoon; Guimera, Jordi; Son, Youngsook; Yoon, Jaeseung; Baek, Kwanghee; Wurst, Wolfgang; Jeong, Yongsu (February 2015). "Ascl1 and Helt act combinatorially to specify thalamic neuronal identity by repressing Dlxs activation". Developmental Biology. 398 (2): 280–291. doi:10.1016/j.ydbio.2014.12.003. PMID 25512300.
+
+^ Puelles, L; Rubenstein, JL (2003). "Forebrain gene expression domains and the evolving prosomeric model". Trends in Neurosciences. 26 (9): 469–76. doi:10.1016/S0166-2236(03)00234-0. PMID 12948657. S2CID 14658562.
+
+^ Ishibashi, M; McMahon, AP (2002). "A sonic hedgehog-dependent signaling relay regulates growth of diencephalic and mesencephalic primordia in the early mouse embryo". Development. 129 (20): 4807–19. doi:10.1242/dev.129.20.4807. PMID 12361972.
+
+^ Kiecker, C; Lumsden, A (2004). "Hedgehog signaling from the ZLI regulates diencephalic regional identity". Nature Neuroscience. 7 (11): 1242–9. doi:10.1038/nn1338. PMID 15494730. S2CID 29863625.
+
+^ Scholpp, S.; Wolf, O; Brand, M; Lumsden, A (2006). "Hedgehog signalling from the zona limitans intrathalamica orchestrates patterning of the zebrafish diencephalon". Development. 133 (5): 855–64. doi:10.1242/dev.02248. PMID 16452095.
+
+^ Scholpp, S.; Delogu, A.; Gilthorpe, J.; Peukert, D.; Schindler, S.; Lumsden, A. (2009). "Her6 regulates the neurogenetic gradient and neuronal identity in the thalamus". Proceedings of the National Academy of Sciences. 106 (47): 19895–900. Bibcode:2009PNAS..10619895S. doi:10.1073/pnas.0910894106. PMC 2775703. PMID 19903880.
+
+^ Vue, Tou Yia; Bluske, Krista; Alishahi, Amin; Yang, Lin Lin; Koyano-Nakagawa, Naoko; Novitch, Bennett; Nakagawa, Yasushi (2009). "Sonic Hedgehog Signaling Controls Thalamic Progenitor Identity and Nuclei Specification in Mice". Journal of Neuroscience. 29 (14): 4484–97. doi:10.1523/JNEUROSCI.0656-09.2009. PMC 2718849. PMID 19357274.
+
+^ Young, Keith A.; Holcomb, Leigh A.; Bonkale, Willy L.; Hicks, Paul B.; Yazdani, Umar; German, Dwight C. (2007). "5HTTLPR Polymorphism and Enlargement of the Pulvinar: Unlocking the Backdoor to the Limbic System". Biological Psychiatry. 61 (6): 813–8. doi:10.1016/j.biopsych.2006.08.047. PMID 17083920. S2CID 2214561.
+
+^ Dejerine, J.; Roussy, G. (1906). "Le syndrome thalamique". Revue Neurologique. 14: 521–32.
+
+^ Kopelman, MD; Thomson, AD; Guerrini, I; Marshall, EJ (16 January 2009). "The Korsakoff syndrome: clinical aspects, psychology and treatment". Alcohol and Alcoholism. 44 (2): 148–54. doi:10.1093/alcalc/agn118. PMID 19151162.
+
+^ Rahme, R; Moussa, R; Awada, A; Ibrahim, I; Ali, Y; Maarrawi, J; Rizk, T; Nohra, G; Okais, N; Samaha, E (April 2007). "Acute Korsakoff-like amnestic syndrome resulting from left thalamic infarction following a right hippocampal hemorrhage". AJNR. American Journal of Neuroradiology. 28 (4): 759–60. PMC 7977335. PMID 17416834.
+
+^ Wexler, Marisa (20 October 2023). "Machine learning models estimate when brain atrophy starts in MS". Multiple Sclerosis News Today.
+
+^ Cen, Steven; Gebregziabher, Mulugeta; Moazami, Saeed; Azevedo, Christina J.; Pelletier, Daniel (28 September 2023). "Toward precision medicine using a "digital twin" approach: modeling the onset of disease-specific brain atrophy in individuals with multiple sclerosis". Scientific Reports. 13 (1): rs.3.rs–2833532. Bibcode:2023NatSR..1316279C. doi:10.1038/s41598-023-43618-5. PMC 10187410. PMID 37205476.
+
+^ Khadhraoui, E; Nickl-Jockschat, T; Henkes, H; Behme, D; Müller, SJ (2024). "Automated brain segmentation and volumetry in dementia diagnostics: a narrative review with emphasis on FreeSurfer". Frontiers in Aging Neuroscience. 16: 1459652. doi:10.3389/fnagi.2024.1459652. PMC 11405240. PMID 39291276.
+
+^ Blomqvist, A. (1 March 2000). "Cytoarchitectonic and immunohistochemical characterization of a specific pain and temperature relay, the posterior portion of the ventral medial nucleus, in the human thalamus". Brain. 123 (3): 601–619. doi:10.1093/brain/123.3.601. PMID 10686182.
+
+External links [edit]
+
+Wikimedia Commons has media related to Thalamus.
+
+Stained brain slice images which include the "thalamus" at the BrainMaps project
+
+v t e
+
+Anatomy of the diencephalon of the human brain
+
+Epithalamus
+
+Surface
+
+Pineal gland Habenula Habenular trigone Habenular commissure
+
+Grey matter
+
+Pretectal area Habenular nuclei Subcommissural organ
+
+Thalamus
+
+Surface
+
+Stria medullaris Thalamic reticular nucleus Taenia thalami
+
+Grey matter/nuclei
+
+paired: AN
+
+Ventral
+
+VA/VL
+
+VP/VPM/VPL
+
+Lateral
+
+LD LP Pulvinar nuclei
+
+Metathalamus
+
+MG
+
+LG
+
+P cell M cell K cell
+
+midline: MD
+
+Intralaminar Centromedian
+
+Midline nuclear group Interthalamic adhesion
+
+White matter
+
+Mammillothalamic tract
+
+Pallidothalamic tracts
+
+Ansa lenticularis Lenticular fasciculus Thalamic fasciculus
+
+DCML
+
+Medial lemniscus Trigeminal lemniscus
+
+Spinothalamic tract Lateral lemniscus Dentatothalamic tract Acoustic radiation Optic radiation Subthalamic fasciculus Ventral trigeminal tract
+
+Medullary laminae
+
+Hypothalamus
+
+Surface
+
+Median eminence/Tuber cinereum
+
+Mammillary body Infundibulum
+
+Grey matter
+
+Autonomic zones
+
+Anterior (parasympathetic/heat loss) Posterior (sympathetic/heat conservation)
+
+Endocrine
+
+posterior pituitary: Paraventricular
+
+Magnocellular neurosecretory cell Parvocellular neurosecretory cell
+
+Supraoptic
+
+oxytocin/vasopressin
+
+other: Arcuate (dopamine/GHRH)
+
+Preoptic (GnRH) Suprachiasmatic (melatonin)
+
+Emotion
+
+Lateral Ventromedial Dorsomedial
+
+White matter
+
+afferent
+
+Stria terminalis Medial forebrain bundle Retinohypothalamic tract
+
+efferent
+
+Mammillothalamic tract Dorsal longitudinal fasciculus
+
+Pituitary
+
+Posterior is diencephalon, but anterior is glandular
+
+Subthalamus
+
+Subthalamic nucleus Zona incerta
+
+Nuclei campi perizonalis (Fields of Forel)
+
+v t e
+
+Brain and spinal cord: neural tracts and fasciculi
+
+Sensory
+
+DCML
+
+1°:
+
+Pacinian corpuscle/Meissner's corpuscle → Posterior column (Gracile fasciculus/Cuneate fasciculus) → Gracile nucleus/Cuneate nucleus
+
+2°:
+
+→ sensory decussation/arcuate fibers (Posterior external arcuate fibers, Internal arcuate fibers) → Medial lemniscus/Trigeminal lemniscus → Thalamus (VPL, VPM)
+
+3°:
+
+→ Posterior limb of internal capsule → Postcentral gyrus
+
+Anterolateral/pain
+
+Fast/lateral
+
+1° (Free nerve ending → A delta fiber) → 2° (Anterior white commissure → Lateral and Anterior Spinothalamic tract → Spinal lemniscus → VPL of Thalamus) → 3° (Postcentral gyrus) → 4° (Posterior parietal cortex) 2° (Spinomesencephalic tract → Superior colliculus of Midbrain tectum)
+
+Slow/medial
+
+1° (Group C nerve fiber → Spinoreticular tract → Reticular formation) → 2° (MD of Thalamus) → 3° (Cingulate cortex)
+
+Motor
+
+Pyramidal
+
+flexion: Primary motor cortex → Posterior limb of internal capsule → Decussation of pyramids → Corticospinal tract (Lateral, Anterior) → Neuromuscular junction
+
+Extrapyramidal
+
+flexion:
+
+Primary motor cortex → Genu of internal capsule → Corticobulbar tract → Facial motor nucleus → Facial muscles
+
+flexion:
+
+Red nucleus → Rubrospinal tract
+
+extension:
+
+Vestibulocerebellum → Vestibular nuclei → Vestibulospinal tract
+
+extension:
+
+Vestibulocerebellum → Reticular formation → Reticulospinal tract
+
+Midbrain tectum → Tectospinal tract → muscles of neck
+
+Basal ganglia
+
+direct: 1° (Motor cortex → Striatum) → 2° (GPi) → 3° (Lenticular fasciculus/Ansa lenticularis → Thalamic fasciculus → VL of Thalamus) → 4° (Thalamocortical radiations → Supplementary motor area) → 5° (Motor cortex)
+
+indirect: 1° (Motor cortex → Striatum) → 2° (GPe) → 3° (Subthalamic fasciculus → Subthalamic nucleus) → 4° (Subthalamic fasciculus → GPi) → 5° (Lenticular fasciculus/Ansa lenticularis → Thalamic fasciculus → VL of Thalamus) → 6° (Thalamocortical radiations → Supplementary motor area) → 7° (Motor cortex)
+
+nigrostriatal pathway:
+
+Pars compacta → Striatum
+
+Cerebellar
+
+Afferent
+
+Vestibular nuclei → Vestibulocerebellar tract → ICP → Cerebellum → Granule cell
+
+Pontine nuclei → Pontocerebellar fibers → MCP → Deep cerebellar nuclei → Granule cell
+
+Inferior olivary nucleus → Olivocerebellar tract → ICP → Hemisphere → Purkinje cell → Deep cerebellar nuclei
+
+Efferent
+
+Dentate nucleus in Lateral hemisphere/pontocerebellum → SCP → Dentatothalamic tract → Thalamus (VL) → Motor cortex
+
+Interposed nucleus in Intermediate hemisphere/spinocerebellum → SCP → Reticular formation, or → Cerebellothalamic tract → Red nucleus → Thalamus (VL) → Motor cortex
+
+Fastigial nucleus in Flocculonodular lobe/vestibulocerebellum → Vestibulocerebellar tract → Vestibular nuclei
+
+Bidirectional:Spinocerebellar
+
+Unconscious proprioception
+
+lower limb → 1° (muscle spindles → DRG) → 2° (Posterior thoracic nucleus → Dorsal/posterior spinocerebellar tract → ICP → Cerebellar vermis)
+
+upper limb → 1° (muscle spindles → DRG) → 2° (Accessory cuneate nucleus → Cuneocerebellar tract → ICP → Anterior lobe of cerebellum)
+
+Reflex arc
+
+lower limb → 1° (Golgi tendon organ) → 2° (Ventral/anterior spinocerebellar tract→ SCP → Cerebellar vermis)
+
+upper limb → 1° (Golgi tendon organ) → 2° (Rostral spinocerebellar tract → ICP → Cerebellum)
+
+Authority control databases
+
+National
+
+United States France BnF data Czech Republic Israel
+
+Other
+
+Terminologia Anatomica2
+
+Retrieved from "https://en.wikipedia.org/w/index.php?title=Thalamus&oldid=1257131112"
+
+Categories: Thalamus Motor system Sensory systems
+
+Hidden categories: Wikipedia articles needing page number citations from February 2012 Webarchive template wayback links All articles with incomplete citations Articles with incomplete citations from November 2012 Articles with short description Short description is different from Wikidata All articles with unsourced statements Articles with unsourced statements from October 2016 Commons category link is on Wikidata
+
+This page was last edited on 13 November 2024, at 11:37 (UTC). Text is available under the Creative Commons Attribution-ShareAlike 4.0 License; additional terms may apply. By using this site, you agree to the Terms of Use and Privacy Policy. Wikipedia® is a registered trademark of the Wikimedia Foundation, Inc., a non-profit organization.
+
+Privacy policy About Wikipedia Disclaimers Contact Wikipedia Code of Conduct Developers Statistics Cookie statement Mobile view
